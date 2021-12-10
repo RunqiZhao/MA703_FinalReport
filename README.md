@@ -2,7 +2,7 @@
 This repository is for **Dynamical spreading over the face-to-face contact network**.  
 
 ### Data files:  
-Data, data all and graphdata contains the combined original contact data in different data type.
+Data, data all and graphdata contains the combined original contact data in different data types.
 
 InfectedNumber is the simulated results for model 1, InfectedNumber_E is the simulated results for model 2, and InfectedNumber_E2 is the simulated results for model 3.
 
